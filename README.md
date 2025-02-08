@@ -24,3 +24,6 @@ curl - для загрузки файла `apt-get install curl`
 curl -o chatBotM.zip https://codeload.github.com/animalsgame/chat-bot/zip/refs/heads/main && unzip -o chatBotM.zip && rm chatBotM.zip && cd chat-bot-main && node service.js token=BOT_TOKEN
 ```
 #### Для повторного запуска бота просто ввести команду `node service.js` (из папки с ботом)
+
+# Через игровой центр vm2
+Откройте игру Побег собачек в игровом центре, перейдите к своему боту, затем в управление, рядом с кнопкой "токен доступа" будет кнопка `установить бота` установка в один клик!
